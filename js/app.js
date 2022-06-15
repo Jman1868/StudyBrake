@@ -1,4 +1,4 @@
-let endpoint = "http://www.boredapi.com/api/";
+let endpoint = "//www.boredapi.com/api/";
 let diyCall = endpoint + "activity?type=diy&participants=1";
 let relaxCall = endpoint + "activity?type=relaxation&participants=1";
 let socialCall = endpoint + "activity?type=social&participants=1";
